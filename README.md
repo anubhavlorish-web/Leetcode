@@ -8,9 +8,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anubhavlorish-web/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anubhavlorish-web/Leetcode/tree/master/0162-find-peak-element) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anubhavlorish-web/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anubhavlorish-web/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anubhavlorish-web/Leetcode/tree/master/0162-find-peak-element) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anubhavlorish-web/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anubhavlorish-web/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
