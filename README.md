@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anubhavlorish-web/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/anubhavlorish-web/Leetcode/tree/master/0189-rotate-array) |
+| [1768-merge-strings-alternately](https://github.com/anubhavlorish-web/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anubhavlorish-web/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1768-merge-strings-alternately](https://github.com/anubhavlorish-web/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
