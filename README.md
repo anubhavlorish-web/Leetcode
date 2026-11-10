@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anubhavlorish-web/Leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/anubhavlorish-web/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/anubhavlorish-web/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/anubhavlorish-web/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anubhavlorish-web/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anubhavlorish-web/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/anubhavlorish-web/Leetcode/tree/master/0169-majority-element) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anubhavlorish-web/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/anubhavlorish-web/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/anubhavlorish-web/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Manacher
 |  |
 | ------- |
