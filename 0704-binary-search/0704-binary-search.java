@@ -1,41 +1,44 @@
 class Solution{
-    public int search(int[] nums, int target){
-        int n = nums.length;
-        int low=0;
-        int high =n-1;
-        
-
-        while(low<=high){
-            int mid= (low + high)/2;
-            if(nums[mid]== target){
-                return mid;
-            }else if(nums[mid]>target){
-                high=mid-1;
-            }else{
-                low=mid+1;
-            }
+    public static int bs(int[] nums, int low, int high, int target){
+        if(low> high){
+            return -1;
         }
-        return -1;
+        int mid=(low+high)/2;
+
+        if(nums[mid]==target){
+            return mid;
+        }
+        else if(nums[mid]< target){
+            return bs(nums, mid+1, high,target);
+        }
+        else{
+            return bs(nums,low,mid-1,target);
+        }
+    }
+    public int search(int[] nums,int target){
+        int n = nums.length;
+        return bs(nums, 0, n-1, target);
     }
 }
 
-// class Solution {
-//     public int search(int[] nums, int target) {
+//ITERATIVE CODE
+// class Solution{
+//     public int search(int[] nums, int target){
 //         int n = nums.length;
-//         int str=0;
-//         int end= n-1;
-//         while(str<=end){
-//             int mid = str + (end-str)/2;
-//             if(nums[mid]==target){
+//         int low=0;
+//         int high =n-1;
+        
+
+//         while(low<=high){
+//             int mid= (low + high)/2;
+//             if(nums[mid]== target){
 //                 return mid;
 //             }else if(nums[mid]>target){
-//                 end = mid-1;
+//                 high=mid-1;
 //             }else{
-//                 str= mid+1;
+//                 low=mid+1;
 //             }
-            
 //         }
 //         return -1;
-
 //     }
 // }
