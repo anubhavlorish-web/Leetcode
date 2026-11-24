@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anubhavlorish-web/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/anubhavlorish-web/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anubhavlorish-web/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/anubhavlorish-web/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anubhavlorish-web/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/anubhavlorish-web/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/anubhavlorish-web/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anubhavlorish-web/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/anubhavlorish-web/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Ternary Search
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anubhavlorish-web/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/anubhavlorish-web/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/anubhavlorish-web/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anubhavlorish-web/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/anubhavlorish-web/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
